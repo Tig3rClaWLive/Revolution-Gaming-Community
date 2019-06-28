@@ -17,11 +17,11 @@
 
 5.        Instaliere das Teamspeak3 Plugin.
 
-5.1       Um Fehler zu vermeiden verwendet während des Aufenthaltes auf dem Server Pushtotalk im Teamspeak.
+6.       Um Fehler zu vermeiden verwendet während des Aufenthaltes auf dem Server Pushtotalk im Teamspeak.
           Der Grund dafür ist das das Funksystem derzeit bei voice activation und der Benutzung der funk taste ausetzt.
           Dies ist bereits in berarbeitung. Die Empfohlene PTT taste von uns ist X.
 
-6.        Das wars schon. Jetzt kann es los gehen.
+7.        Das wars schon. Jetzt kann es los gehen.
 
 
 
