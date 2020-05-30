@@ -13,7 +13,7 @@
 
 2.        Teamspeak3
 
-4.        Das von uns verwendete Voip Script, das du hier donwloaden kannst.
+4.        Das von uns verwendete Voip Script, das du hier downloaden kannst.
 
 5.        Installiere das Teamspeak3 Plugin.
 
